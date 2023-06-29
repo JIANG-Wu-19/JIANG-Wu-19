@@ -2,7 +2,7 @@
 
 ---
 
-My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitor
+My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitors
 
 <div align="center">
   <a href=""><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
