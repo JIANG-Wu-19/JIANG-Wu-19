@@ -38,8 +38,6 @@ I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 
-
-
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
@@ -51,10 +49,7 @@ I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,
 </div>
 
 
-
-![J&Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIANG-Wu-19&show_icons=true&theme=radical)
-
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JIANG-Wu-19&show_icons=true&theme=radical" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /> </div>
 
@@ -68,7 +63,7 @@ I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D49F7&center=true&width=435&lines=%3CKeep+Calm+And+Carry+On%3E;%3CKeep+COOL%3E" alt="Typing SVG" /></a>
 </div>
 
-![](https://raw.githubusercontent.com/JIANG-Wu-19/JIANG-Wu-19/main/assets/github-contribution-grid-snake.svg)
+![](github-user-contribution.svg)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
