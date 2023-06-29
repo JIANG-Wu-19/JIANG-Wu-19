@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0J%26Ocean%E7%9A%84%E4%B8%BB%E9%A1%B5;Hello%2CWelcome+to+J%26Ocean's+HOMEPAGE)](https://git.io/typing-svg)
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0J%26Ocean%E7%9A%84%E4%B8%BB%E9%A1%B5;Hello%2CWelcome+to+J%26Ocean's+HOMEPAGE" /> </div>
 
 ---
 
