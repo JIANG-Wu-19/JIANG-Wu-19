@@ -12,9 +12,7 @@ My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  
 </div>
 
 
-<div aligh="center">
-  <img src="https://metrics.lecoq.io/JIANG-Wu-19?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Etc%2FGMT-8">
-</div>
+
 
 
 I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,CSU
