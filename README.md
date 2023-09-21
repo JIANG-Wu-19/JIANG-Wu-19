@@ -2,7 +2,7 @@
 
 ---
 
-My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitors
+:wave: My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitors
 
 <div align="center">
   <a href="https://jiang-wu-19.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
@@ -12,14 +12,15 @@ My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  
 </div>
 
 
+:wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**, CSU
+
+:star:I'm interested in NLP, DL and LLM
+
+:raised_hands:Several course labs and course designs in my repositories
 
 
 
-I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,CSU
-
-
-
-**CURRENTLY STUDYING：**
+:fire:**CURRENTLY STUDYING：**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -31,7 +32,7 @@ I'm JiangWu,currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**,
 
 
 
-**PLANNING STUDYING:**
+:point_down:**PLANNING STUDYING:**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
