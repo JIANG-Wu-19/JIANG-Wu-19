@@ -63,7 +63,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D49F7&center=true&width=435&lines=%3CKeep+Calm+And+Carry+On%3E;%3CKeep+COOL%3E" alt="Typing SVG" /></a>
 </div>
 
-![](https://raw.githubusercontent.com/JIANG-Wu-19/JIANG-Wu-19/main/assets/github-contribution-grid-snake.svg)
+![](github-user-contribution.svg)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
