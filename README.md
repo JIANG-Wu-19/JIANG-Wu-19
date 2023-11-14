@@ -12,7 +12,7 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/JIANG-Wu-19?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN">
+<div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN"></div>
 
 :wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**, CSU
 
