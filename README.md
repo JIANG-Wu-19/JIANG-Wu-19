@@ -6,17 +6,21 @@
 
 <div align="center">
   <a href="https://jiang-wu-19.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/jiangjiang678"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/433413805"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://gitee.com/wu-jiang-nineteen"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-c32136"></a>&emsp;
 </div>
 
+<div align="center"> <img src="https://metrics.lecoq.io/JIANG-Wu-19?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN">
 
 :wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**, CSU
 
-:star:I'm interested in NLP, DL and LLM
+:star:I'm interested in Deep Learning, Urban Computing and Multi-Modal Learning
 
 :raised_hands:Several course labs and course designs in my repositories
+
+<div align="center"> <img  src="https://github-profile-trophy.vercel.app/?username=JIANG-Wu-19&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /> </div>
 
 
 
@@ -37,6 +41,28 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+
+
+
+📃**Recent Blog**
+
+* [evaluation-metrics | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
+* [hadamard积 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
+* [ELBO | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
+* [论文阅读 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/19/论文阅读/) -2023-10-19
+
+
+
+🤾‍♂️**Funny Soul**
+
+* [看过歌剧《The Phantom of the Opera》中配](https://www.bilibili.com/video/BV1yc411X76w/?spm_id_from=333.999.0.0&vd_source=cd3dee08a4773c8014a040c55e86390d) 🌟🌟🌟🌟🌟 力荐 -2023-11-10
+* [看过舞剧《红楼梦》](https://mp.weixin.qq.com/s/sawuhzyRNyXW3040nYUTpw) 🌟🌟🌟🌟🌟 力荐 -2023-09-02
+
+
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -49,9 +75,11 @@
 </div>
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JIANG-Wu-19&show_icons=true&theme=radical" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JIANG-Wu-19&show_icons=true&theme=radical" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </div>
+
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JIANG-Wu-19&theme=dark&hide_border=true" /></div>
 
 ---
 
@@ -62,8 +90,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D49F7&center=true&width=435&lines=%3CKeep+Calm+And+Carry+On%3E;%3CKeep+COOL%3E" alt="Typing SVG" /></a>
 </div>
-
-![](https://raw.githubusercontent.com/JIANG-Wu-19/JIANG-Wu-19/master/assets/github-contribution-grid-snake.svg)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
 </div>
