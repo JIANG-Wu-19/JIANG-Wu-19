@@ -14,7 +14,7 @@
 
 <div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN"></div>
 
-:wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE AND TECHNOLOGY**, CSU
+:wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE**, CSU
 
 :star:I'm interested in Deep Learning, Urban Computing and Multi-Modal Learning
 
@@ -50,6 +50,7 @@
 
 📃**Recent Blog**
 
+* [LOOCV | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
 * [evaluation-metrics | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
 * [hadamard积 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
 * [ELBO | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
