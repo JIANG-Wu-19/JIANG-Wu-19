@@ -50,6 +50,7 @@
 
 📃**Recent Blog**
 
+* [LaTex报告模板 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
 * [LOOCV | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
 * [evaluation-metrics | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
 * [hadamard积 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
@@ -61,6 +62,7 @@
 🤾‍♂️**Funny Soul**
 
 * [看过歌剧《The Phantom of the Opera》中配](https://www.bilibili.com/video/BV1yc411X76w/?spm_id_from=333.999.0.0&vd_source=cd3dee08a4773c8014a040c55e86390d) 🌟🌟🌟🌟🌟 力荐 -2023-11-10
+* [玩过洋湖湿地游乐园](https://www.bilibili.com/video/BV1m84y197xW?vd_source=35bc9a43200c96835c347d9b8335f02f) 🌟🌟🌟🌟🌟 
 * [看过舞剧《红楼梦》](https://mp.weixin.qq.com/s/sawuhzyRNyXW3040nYUTpw) 🌟🌟🌟🌟🌟 力荐 -2023-09-02
 
 
