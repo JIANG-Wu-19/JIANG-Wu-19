@@ -9,9 +9,6 @@
   <a href="https://space.bilibili.com/433413805"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://gitee.com/wu-jiang-nineteen"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-c32136"></a>&emsp;
 </div>
-
-<div align="center"> <img src="https://metrics.lecoq.io/JIANG-Wu-19?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN"></div>
 
 :wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE**, CSU
