@@ -47,6 +47,9 @@
 
 📃**Recent Blog**
 
+* [课内实验的index | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/07/22/课内实验的index/) -2023-12-19更新
+* [软件工程笔记 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/09/27/软件工程笔记/) -2023-12-19完成
+* [信息与网络安全笔记 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/21/信息与网络安全笔记/) -2023-12-15完成
 * [LaTex报告模板 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
 * [LOOCV | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
 * [evaluation-metrics | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
