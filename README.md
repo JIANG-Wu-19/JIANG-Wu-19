@@ -47,15 +47,17 @@
 
 📃**Recent Blog**
 
-* [课内实验的index | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/07/22/课内实验的index/) -2023-12-19更新
-* [软件工程笔记 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/09/27/软件工程笔记/) -2023-12-19完成
-* [信息与网络安全笔记 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/21/信息与网络安全笔记/) -2023-12-15完成
-* [LaTex报告模板 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
-* [LOOCV | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
-* [evaluation-metrics | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
-* [hadamard积 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
-* [ELBO | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
-* [论文阅读 | J&Ocean BLOG (jiang-wu-19.github.io)](https://jiang-wu-19.github.io/2023/10/19/论文阅读/) -2023-10-19
+* [课内实验的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课内实验的index/) -2024-01-29更新
+* [课程设计的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课程设计的index/) -2024-01-29更新
+* [计算机体系结构笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/计算机体系结构笔记/) -2024-01-29更新
+* [软件工程笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/软件工程笔记/) -2023-12-19完成
+* [信息与网络安全笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/21/信息与网络安全笔记/) -2023-12-15完成
+* [LaTex报告模板 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
+* [LOOCV | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
+* [evaluation-metrics | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
+* [hadamard积 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
+* [ELBO | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
+* [论文阅读 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/19/论文阅读/) -2023-10-19
 
 
 
