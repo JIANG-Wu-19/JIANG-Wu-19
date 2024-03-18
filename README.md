@@ -47,6 +47,8 @@
 
 📃**Recent Blog**
 
+* [现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
+* [卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/) -2024-02-27
 * [深度学习计算 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/20/深度学习计算/) -2024-02-20
 * [课内实验的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课内实验的index/) -2024-01-29更新
 * [课程设计的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课程设计的index/) -2024-01-29更新
