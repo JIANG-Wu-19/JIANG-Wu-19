@@ -47,6 +47,7 @@
 
 📃**Recent Blog**
 
+* [循环神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/06/循环神经网络/) -2024-03-06
 * [现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
 * [卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/) -2024-02-27
 * [深度学习计算 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/20/深度学习计算/) -2024-02-20
@@ -69,6 +70,8 @@
 * [看过歌剧《The Phantom of the Opera》中配](https://www.bilibili.com/video/BV1yc411X76w/?spm_id_from=333.999.0.0&vd_source=cd3dee08a4773c8014a040c55e86390d) 🌟🌟🌟🌟🌟 力荐 -2023-11-10
 * [玩过洋湖湿地游乐园](https://www.bilibili.com/video/BV1m84y197xW?vd_source=35bc9a43200c96835c347d9b8335f02f) 🌟🌟🌟🌟🌟 
 * [看过舞剧《红楼梦》](https://mp.weixin.qq.com/s/sawuhzyRNyXW3040nYUTpw) 🌟🌟🌟🌟🌟 力荐 -2023-09-02
+
+![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=JIANG-Wu-19&custom_title=J%26amp;Ocean%27s%20Contribution%20Graph&theme=github-compact)
 
 
 
