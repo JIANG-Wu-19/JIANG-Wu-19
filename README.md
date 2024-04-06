@@ -47,6 +47,7 @@
 
 📃**Recent Blog**
 
+* [PyTorch快速入门 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/05/PyTorch快速入门/) -2024-04-06
 * [循环神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/06/循环神经网络/) -2024-03-06
 * [现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
 * [卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/) -2024-02-27
