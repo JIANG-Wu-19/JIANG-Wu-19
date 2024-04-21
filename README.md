@@ -47,6 +47,7 @@
 
 📃**Recent Blog**
 
+* [损失函数 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/18/损失函数/) -2024-04-18
 * [PyTorch快速入门 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/05/PyTorch快速入门/) -2024-04-06
 * [循环神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/06/循环神经网络/) -2024-03-06
 * [现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
