@@ -68,21 +68,23 @@
 
 
 
-📃**Course Experiments**
+~~📃**Course Experiments**~~
 
-* Python：[JIANG-Wu-19/python_dataprocess](https://github.com/JIANG-Wu-19/python_dataprocess)
-* Computer Networks：[JIANG-Wu-19/ComputerNetworks_experiment](https://github.com/JIANG-Wu-19/ComputerNetworks_experiment)
-* Database：[JIANG-Wu-19/database_experiments](https://github.com/JIANG-Wu-19/database_experiments)
-* Algorithm：[JIANG-Wu-19/Algorithms_experiments](https://github.com/JIANG-Wu-19/Algorithms_experiments)
-* Operation System：[JIANG-Wu-19/OS_Experiment](https://github.com/JIANG-Wu-19/OS_Experiment)
-* Assembly：[JIANG-Wu-19/Assembly_experiments](https://github.com/JIANG-Wu-19/Assembly_experiments)
-* Java：[JIANG-Wu-19/Java_experiments](https://github.com/JIANG-Wu-19/Java_experiments)
+* ~~Python：[JIANG-Wu-19/python_dataprocess](https://github.com/JIANG-Wu-19/python_dataprocess)~~
+* ~~Computer Networks：[JIANG-Wu-19/ComputerNetworks_experiment](https://github.com/JIANG-Wu-19/ComputerNetworks_experiment)~~
+* ~~Database：[JIANG-Wu-19/database_experiments](https://github.com/JIANG-Wu-19/database_experiments)~~
+* ~~Algorithm：[JIANG-Wu-19/Algorithms_experiments](https://github.com/JIANG-Wu-19/Algorithms_experiments)~~
+* ~~Operation System：[JIANG-Wu-19/OS_Experiment](https://github.com/JIANG-Wu-19/OS_Experiment)~~
+* ~~Assembly：[JIANG-Wu-19/Assembly_experiments](https://github.com/JIANG-Wu-19/Assembly_experiments)~~
+* ~~Java：[JIANG-Wu-19/Java_experiments](https://github.com/JIANG-Wu-19/Java_experiments)~~
 
-📃**Labs**
+~~📃**Labs**~~
 
-* Java+Computer Networks：[JIANG-Wu-19/JavaNetworks](https://github.com/JIANG-Wu-19/JavaNetworks)
-* Java+Android+Web：[JIANG-Wu-19/HospitalRegisterApp](https://github.com/JIANG-Wu-19/HospitalRegisterApp)
-* Assembly：[JIANG-Wu-19/AssemblyLanguage_Practice](https://github.com/JIANG-Wu-19/AssemblyLanguage_Practice)
+* ~~Java+Computer Networks：[JIANG-Wu-19/JavaNetworks](https://github.com/JIANG-Wu-19/JavaNetworks)~~
+* ~~Java+Android+Web：[JIANG-Wu-19/HospitalRegisterApp](https://github.com/JIANG-Wu-19/HospitalRegisterApp)~~
+* ~~Assembly：[JIANG-Wu-19/AssemblyLanguage_Practice](https://github.com/JIANG-Wu-19/AssemblyLanguage_Practice)~~~~
+
+More Details in [JIANG-Wu-19/CourseExperiments](https://github.com/JIANG-Wu-19/CourseExperiments) and [JIANG-Wu-19/Labs](https://github.com/JIANG-Wu-19/Labs)
 
 
 
