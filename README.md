@@ -82,7 +82,7 @@
 
 * ~~Java+Computer Networks：[JIANG-Wu-19/JavaNetworks](https://github.com/JIANG-Wu-19/JavaNetworks)~~
 * ~~Java+Android+Web：[JIANG-Wu-19/HospitalRegisterApp](https://github.com/JIANG-Wu-19/HospitalRegisterApp)~~
-* ~~Assembly：[JIANG-Wu-19/AssemblyLanguage_Practice](https://github.com/JIANG-Wu-19/AssemblyLanguage_Practice)~~~~
+* ~~Assembly：[JIANG-Wu-19/AssemblyLanguage_Practice](https://github.com/JIANG-Wu-19/AssemblyLanguage_Practice)~~
 
 More Details in [JIANG-Wu-19/CourseExperiments](https://github.com/JIANG-Wu-19/CourseExperiments) and [JIANG-Wu-19/Labs](https://github.com/JIANG-Wu-19/Labs)
 
