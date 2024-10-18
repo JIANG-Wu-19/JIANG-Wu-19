@@ -2,26 +2,24 @@
 
 ---
 
-:wave: My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitors
+👋 My   ![Visitor Count](https://profile-counter.glitch.me/JIANG-Wu-19/count.svg)  visitors
 
 <div align="center">
-  <a href="https://jiang-wu-19.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://space.bilibili.com/433413805"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://gitee.com/wu-jiang-nineteen"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-c32136"></a>&emsp;
+  <a href="https://jiang-wu-19.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a> 
+  <a href="https://space.bilibili.com/433413805"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a> 
+  <a href="https://gitee.com/wu-jiang-nineteen"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-c32136"></a> 
 </div>
 <div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=433413805&theme=radical#&lang=zh-CN"></div>
 
-:wave:Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE**, CSU
+👋Hi, I'm JiangWu, currently a student majoring in **COMPUTER SCIENCE**, Master's Degree Candidate majoring in EI@ZJU
 
-:star:I'm interested in Deep Learning, Urban Computing and Multi-Modal Learning
+⭐️I'm interested in Deep Learning, Urban Computing and Multi-Modal Learning
 
-:raised_hands:Several course labs and course designs in my repositories
+🙌Several course labs and course designs in my repositories
 
 <div align="center"> <img  src="https://github-profile-trophy.vercel.app/?username=JIANG-Wu-19&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /> </div>
 
-
-
-:fire:**CURRENTLY STUDYING：**
+🔥**CURRENTLY STUDYING：**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -31,9 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-red.svg?style=style=flat-square&logo=Vue&logoColor=white)
 
-
-
-:point_down:**PLANNING STUDYING:**
+👇**PLANNING STUDYING:**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
@@ -43,30 +39,26 @@
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
-
-
 📃**Recent Blog**
 
-* [AttentionIsAllYouNeed | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/06/05/AttentionIsAllYouNeed/) -2024-06-05
-* [损失函数 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/18/损失函数/) -2024-04-18
-* [PyTorch快速入门 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/05/PyTorch快速入门/) -2024-04-06
-* [循环神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/06/循环神经网络/) -2024-03-06
-* [现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
-* [卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/) -2024-02-27
-* [深度学习计算 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/20/深度学习计算/) -2024-02-20
-* [课内实验的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课内实验的index/) -2024-01-29更新
-* [课程设计的index | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课程设计的index/) -2024-01-29更新
-* [计算机体系结构笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/计算机体系结构笔记/) -2024-01-29更新
-* [软件工程笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/软件工程笔记/) -2023-12-19完成
-* [信息与网络安全笔记 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/21/信息与网络安全笔记/) -2023-12-15完成
-* [LaTex报告模板 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
-* [LOOCV | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
-* [evaluation-metrics | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
-* [hadamard积 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
-* [ELBO | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
-* [论文阅读 | J&Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/19/论文阅读/) -2023-10-19
-
-
+* [AttentionIsAllYouNeed | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/06/05/AttentionIsAllYouNeed/) -2024-06-05
+* [损失函数 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/18/损失函数/) -2024-04-18
+* [PyTorch快速入门 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/04/05/PyTorch快速入门/) -2024-04-06
+* [循环神经网络 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/06/循环神经网络/) -2024-03-06
+* [现代卷积神经网络 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/) -2024-03-01
+* [卷积神经网络 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/) -2024-02-27
+* [深度学习计算 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/20/深度学习计算/) -2024-02-20
+* [课内实验的index | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课内实验的index/) -2024-01-29更新
+* [课程设计的index | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/07/22/课程设计的index/) -2024-01-29更新
+* [计算机体系结构笔记 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/计算机体系结构笔记/) -2024-01-29更新
+* [软件工程笔记 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2023/09/27/软件工程笔记/) -2023-12-19完成
+* [信息与网络安全笔记 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/21/信息与网络安全笔记/) -2023-12-15完成
+* [LaTex报告模板 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/28/LaTex报告模板/) -2023-11-28
+* [LOOCV | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/16/LOOCV/) -2023-11-16
+* [evaluation-metrics | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/12/evaluation-metrics/) -2023-11-12
+* [hadamard积 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/11/01/hadamard积/) -2023-11-01
+* [ELBO | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/26/ELBO/) -2023-10-26
+* [论文阅读 | J&amp;Ocean BLOG (jiangwu.xyz)](https://jiang-wu-19.github.io/2023/10/19/论文阅读/) -2023-10-19
 
 ~~📃**Course Experiments**~~
 
@@ -86,17 +78,13 @@
 
 More Details in [JIANG-Wu-19/CourseExperiments](https://github.com/JIANG-Wu-19/CourseExperiments) and [JIANG-Wu-19/Labs](https://github.com/JIANG-Wu-19/Labs)
 
-
-
 🤾‍♂️**Funny Soul**
 
 * [看过歌剧《The Phantom of the Opera》中配](https://www.bilibili.com/video/BV1yc411X76w/?spm_id_from=333.999.0.0&vd_source=cd3dee08a4773c8014a040c55e86390d) 🌟🌟🌟🌟🌟 力荐 -2023-11-10
-* [玩过洋湖湿地游乐园](https://www.bilibili.com/video/BV1m84y197xW?vd_source=35bc9a43200c96835c347d9b8335f02f) 🌟🌟🌟🌟🌟 
+* [玩过洋湖湿地游乐园](https://www.bilibili.com/video/BV1m84y197xW?vd_source=35bc9a43200c96835c347d9b8335f02f) 🌟🌟🌟🌟🌟
 * [看过舞剧《红楼梦》](https://mp.weixin.qq.com/s/sawuhzyRNyXW3040nYUTpw) 🌟🌟🌟🌟🌟 力荐 -2023-09-02
 
 ![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=JIANG-Wu-19&custom_title=J%26amp;Ocean%27s%20Contribution%20Graph&theme=github-compact)
-
-
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -107,7 +95,6 @@ More Details in [JIANG-Wu-19/CourseExperiments](https://github.com/JIANG-Wu-19/C
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JIANG-Wu-19&show_icons=true&theme=radical" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></div>
 
